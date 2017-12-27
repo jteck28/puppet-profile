@@ -1,0 +1,15 @@
+{
+  "name": "jteck28-profile",
+  "version": "0.1.0",
+  "author": "jteck28",
+  "summary": "profile module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jteck28/puppet-profile.git",
+  "project_page": "https://github.com/jteck28/puppet-profile",
+  "issues_url": "https://github.com/jteck28/puppet-profile/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
